@@ -1,0 +1,13 @@
+{
+  "unique_id": "3VC7c4Sw",
+  "name": "text",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "collapseStatus": "expand",
+  "values": {
+    "Content": "I'm your Aptugo application"
+  },
+  "parent": "KK49rgB6"
+}

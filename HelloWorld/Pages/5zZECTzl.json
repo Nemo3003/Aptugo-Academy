@@ -1,0 +1,14 @@
+{
+  "unique_id": "5zZECTzl",
+  "name": "sidebar",
+  "prevent_delete": false,
+  "cascades": true,
+  "type": "element",
+  "value": "sidebar",
+  "collapseStatus": "collapse",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  },
+  "parent": "WgTPTVVb"
+}

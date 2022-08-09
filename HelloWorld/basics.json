@@ -1,0 +1,34 @@
+{
+  "_id": "UGw7Qb8P2l7XKvLI",
+  "createdAt": 1659565427291,
+  "modifiedAt": 1659567193718,
+  "settings": {
+    "name": "HelloWorld",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "HelloWorld",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://helloworld_anonymous.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/anonymous"
+    },
+    "stagging": {
+      "apiURL": "https://HelloWorld_lite.aptugo.app",
+      "type": "Local",
+      "folder": "HelloWorld_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://helloworld_anonymous.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/anonymous"
+    },
+    "production": {
+      "apiURL": "https://helloworld_lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "HelloWorld",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://helloworld_lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/helloworld"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {
+  font-family: 'Inter', sans-serif;
+}
+
+body {
+  background-color: #caf6ff;
+  height: 100vh;
+
+
+ & .card {
+  background: #fff;
+  margin: 30px auto;
+  width: 40%;
+  box-shadow: -9px 11px 5px 0px rgba(0,0,0,0.75);
+  border-radius: 10px;
+  text-align: center;
+}}
+
+.image {
+  width: 100%;
+}
+
+.title {
+  padding: 10px 0;
+}
+
+.title h1 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 132.8%;
+  color: #0d1d2a;
+}
+
+.title h2 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 132.4%;
+  color: #7c7c7c;
+}
+
+.infoWrapper {
+  padding: 10px 20px;
+  border-top: 2px solid #3b0f98;
+  border-bottom: 2px solid #3b0f98;
+}
+
+.infoWrapper h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #3b0f98;
+  margin-bottom: 20px;
+}
+
+.infoWrapper p {
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 10px;
+  color: #7c7c7c;
+}
+
+.form div {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.form button {
+  margin-top: 7px;
+  height: 39px;
+  width: 100px;
+  background-color: #3b0f98;
+  border-radius: 10px;
+  text-transform: capitalize;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 16px;
+  color: #dfe2ef;
+}
+
+.socials {
+  padding: 10px;
+}
+
+.icons svg {
+  width: 1.5em;
+  height: 1.5em;
+  margin-right: 10px;
+}
+
+.icons svg path {
+  color: #453e45;
+}

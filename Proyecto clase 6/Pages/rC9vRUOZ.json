@@ -1,0 +1,16 @@
+{
+  "name": "button",
+  "unique_id": "rC9vRUOZ",
+  "parent": "eWE73NM3",
+  "path": "button.tpl",
+  "completePath": "elements/Material-UI/button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Escribime!",
+    "Variant": "contained",
+    "Action": "#"
+  }
+}

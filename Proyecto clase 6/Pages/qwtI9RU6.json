@@ -1,0 +1,14 @@
+{
+  "name": "field",
+  "unique_id": "qwtI9RU6",
+  "parent": "XJXLlPu6",
+  "path": "field.tpl",
+  "completePath": "elements/Material-UI/field.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "field",
+  "values": {
+    "DisableVariable": "true"
+  }
+}

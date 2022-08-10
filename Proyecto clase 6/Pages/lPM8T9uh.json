@@ -1,0 +1,16 @@
+{
+  "name": "Facebook",
+  "unique_id": "lPM8T9uh",
+  "parent": "n6z7MVNb",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "JG3BBwMh",
+    "width": "30",
+    "height": "30"
+  }
+}

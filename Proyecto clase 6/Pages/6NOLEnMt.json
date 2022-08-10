@@ -1,0 +1,16 @@
+{
+  "name": "Linkedin",
+  "unique_id": "6NOLEnMt",
+  "parent": "nFamiCba",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "bAzeOOmT",
+    "width": "30",
+    "height": "30"
+  }
+}

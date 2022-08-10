@@ -1,0 +1,33 @@
+{
+  "unique_id": "CKsRwnRR",
+  "path": "updateStateVariable.tpl",
+  "completePath": "elements/Programming/Snippets/updateStateVariable.tpl",
+  "type": "element",
+  "icon": "ico-paper",
+  "sourceType": "javascript",
+  "helpText": "Updates the value of a state variable",
+  "options": [
+    {
+      "name": "variable",
+      "display": "Variable to Update",
+      "type": "variable",
+      "options": ""
+    },
+    {
+      "name": "newvalue",
+      "display": "New Value",
+      "type": "variable",
+      "options": ""
+    }
+  ],
+  "name": "updateStateVariable",
+  "parent": "f5S6XKJm",
+  "cascades": false,
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  },
+  "prevent_delete": false,
+  "collapseStatus": "collapse"
+}

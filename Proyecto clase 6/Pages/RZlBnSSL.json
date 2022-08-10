@@ -1,0 +1,13 @@
+{
+  "unique_id": "RZlBnSSL",
+  "name": "searchField",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "value": "searchField",
+  "collapseStatus": "expand",
+  "values": {
+    "table": "91DvsR5N"
+  },
+  "parent": "DW7uIROP"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "field",
+  "unique_id": "65WJogOk",
+  "parent": "eWE73NM3",
+  "path": "field.tpl",
+  "completePath": "elements/Material-UI/field.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "field",
+  "values": {
+    "Field": "RvS0UDZq",
+    "Type": "edit",
+    "margin": "normal",
+    "variant": "filled",
+    "classname": "theme",
+    "DisableUnderline": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "unique_id": "wB5JpiEJ",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "type": "element",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Text Content",
+  "parent": "pKEA5NzF",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "text",
+  "values": {
+    "Content": "Soy diseñadora de indumentaria, estudié en Nueva York y San Pablo. Me especializo en elementos naturales, estilo nórdico, diseño californiano y materiales reciclados.",
+    "ClassName": "theme.detail"
+  },
+  "prevent_delete": false
+}

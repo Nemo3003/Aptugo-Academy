@@ -1,0 +1,10 @@
+{
+  "unique_id": "3a5TTpsM",
+  "name": "Application Root",
+  "type": "page",
+  "subtype": "cascade",
+  "prevent_delete": true,
+  "path": "",
+  "parent": false,
+  "collapseStatus": "expand"
+}

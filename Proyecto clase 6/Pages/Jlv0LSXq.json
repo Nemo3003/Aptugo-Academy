@@ -1,0 +1,40 @@
+{
+  "unique_id": "Jlv0LSXq",
+  "path": "saveToRedux.tpl",
+  "completePath": "elements/Programming/saveToRedux.tpl",
+  "display": "Save to Database",
+  "type": "element",
+  "icon": "ico-save-to-redux",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "data",
+      "display": "Data",
+      "type": "dropdown",
+      "required": true,
+      "options": "return aptugo.store.getState().application.tables.map(({ unique_id, name }) => [unique_id, name])"
+    },
+    {
+      "name": "condition",
+      "display": "Condition",
+      "type": "text"
+    },
+    {
+      "name": "variablename",
+      "display": "Variable name to save",
+      "type": "text",
+      "settings": {
+        "default": "data"
+      }
+    }
+  ],
+  "name": "Save to Database",
+  "value": "saveToRedux",
+  "values": {
+    "data": "91DvsR5N"
+  },
+  "parent": "3GEnKz6n",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

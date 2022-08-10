@@ -1,0 +1,37 @@
+{
+  "unique_id": "O5JnxaWF",
+  "path": "MaterialIcon.tpl",
+  "completePath": "elements/Material-UI/MaterialIcon.tpl",
+  "type": "element",
+  "icon": "ico-icon-button",
+  "helpText": "Shows a material icon from the list",
+  "options": [
+    {
+      "name": "icon",
+      "display": "Icon",
+      "type": "text",
+      "options": "Access"
+    },
+    {
+      "name": "color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "default;primary;secondary;action;disabled"
+    },
+    {
+      "name": "className",
+      "display": "className",
+      "type": "text"
+    }
+  ],
+  "name": "Instagram",
+  "parent": "5RtTRnyN",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "value": "MaterialIcon",
+  "values": {
+    "icon": "Instagram",
+    "color": "action"
+  },
+  "prevent_delete": false
+}

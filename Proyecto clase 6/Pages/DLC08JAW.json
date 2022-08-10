@@ -1,0 +1,12 @@
+{
+  "name": "text",
+  "unique_id": "DLC08JAW",
+  "parent": "OLUb4pbb",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "I'm your Aptugo application"
+  }
+}

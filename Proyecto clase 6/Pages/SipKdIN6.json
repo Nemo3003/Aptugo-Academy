@@ -1,0 +1,17 @@
+{
+  "name": "field",
+  "unique_id": "SipKdIN6",
+  "parent": "XJXLlPu6",
+  "path": "field.tpl",
+  "completePath": "elements/Material-UI/field.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "field",
+  "values": {
+    "fieldVariable": "prueba",
+    "Type": "show",
+    "Field": "useVar",
+    "columnName": "Escribeme"
+  }
+}

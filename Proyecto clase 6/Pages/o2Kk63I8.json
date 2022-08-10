@@ -1,0 +1,16 @@
+{
+  "unique_id": "o2Kk63I8",
+  "name": "alertMessage",
+  "value": "alertMessage",
+  "values": {
+    "title": "Enviado!",
+    "severity": "success",
+    "variant": "filled"
+  },
+  "type": "element",
+  "path": "alertMessage.tpl",
+  "parent": "7PW2KbJ7",
+  "prevent_delete": false,
+  "cascades": false,
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "QxlHnVB9",
+  "path": "onPageLoad.tpl",
+  "completePath": "elements/Programming/onPageLoad.tpl",
+  "type": "element",
+  "icon": "ico-field",
+  "helpText": "Executes commands when DOM has been loaded and renderized",
+  "name": "onPageLoad",
+  "parent": "175JW7UU",
+  "cascades": false,
+  "value": "onPageLoad",
+  "prevent_delete": false,
+  "collapseStatus": "collapse"
+}

@@ -1,0 +1,17 @@
+{
+  "unique_id": "7PW2KbJ7",
+  "name": "snackbar",
+  "value": "snackbar",
+  "values": {
+    "message": "",
+    "position": "Top-Center",
+    "autohide": "2000",
+    "varName": "openSnackbar"
+  },
+  "path": "snackbar.tpl",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "ruiaMB57",
+  "collapseStatus": "expand"
+}

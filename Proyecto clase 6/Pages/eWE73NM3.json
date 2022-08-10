@@ -1,0 +1,14 @@
+{
+  "name": "Field Wrapper",
+  "unique_id": "eWE73NM3",
+  "parent": "PRLCMmw7",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": ""
+  }
+}

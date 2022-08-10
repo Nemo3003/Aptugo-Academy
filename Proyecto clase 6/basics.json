@@ -1,0 +1,38 @@
+{
+  "_id": "gecVIF0KH4rbypEc",
+  "createdAt": 1656556008002,
+  "modifiedAt": 1660169888987,
+  "settings": {
+    "name": "ProyectoClase5",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://proyectoclase5_.aptugo.com",
+      "folder": "ProyectoClase5",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://proyectoclase5_.aptugo.com",
+      "folder": "ProyectoClase5_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://ProyectoClase5_robrondon11gmailcom.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Remote (Aptugo)",
+      "url": "https://proyectoclase5_robrondon11gmailcom.aptugo.app",
+      "folder": "ProyectoClase5",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://proyectoclase5_robrondon11gmailcom.backend.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/proyectoclase5",
+      "variables": ""
+    },
+    "lastSaved": null,
+    "lastBuild": null
+  }
+}

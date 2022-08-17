@@ -1,0 +1,16 @@
+{
+  "unique_id": "tc17zp20",
+  "name": "Text Content",
+  "parent": "sfwFb1o3",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Anything!",
+    "ClassName": "theme.orange"
+  },
+  "prevent_delete": false
+}

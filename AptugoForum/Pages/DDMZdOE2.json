@@ -1,0 +1,15 @@
+{
+  "unique_id": "DDMZdOE2",
+  "path": "bpr.tpl",
+  "completePath": "elements\\Aptugo Internal Use\\bpr.tpl",
+  "type": "element",
+  "icon": "ico-field",
+  "sourceType": "javascript",
+  "internalUse": true,
+  "prevent_delete": true,
+  "name": "Loading...",
+  "value": "bpr",
+  "cascades": false,
+  "collapseStatus": "expand",
+  "parent": "2X4xuI2D"
+}

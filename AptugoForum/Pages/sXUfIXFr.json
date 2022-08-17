@@ -1,0 +1,16 @@
+{
+  "unique_id": "sXUfIXFr",
+  "name": "grid",
+  "parent": "JvcTPiXT",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "smallcolumns": "12",
+    "midcolumns": "8"
+  },
+  "prevent_delete": false
+}

@@ -1,0 +1,15 @@
+{
+  "unique_id": "JvcTPiXT",
+  "name": "grid",
+  "parent": "IGUhtJCL",
+  "path": "grid.tpl",
+  "completePath": "elements/Material-UI/grid.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "grid",
+  "values": {
+    "container": true
+  },
+  "prevent_delete": false
+}

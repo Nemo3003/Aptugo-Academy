@@ -1,0 +1,12 @@
+{
+  "unique_id": "mQcxTgHt",
+  "name": "onPageLoad",
+  "parent": "VbP5seKM",
+  "path": "onPageLoad.tpl",
+  "completePath": "elements/Programming/onPageLoad.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "onPageLoad",
+  "prevent_delete": false
+}

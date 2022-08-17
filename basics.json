@@ -1,0 +1,34 @@
+{
+  "_id": "TMT9homWSuKlX0zS",
+  "createdAt": 1660773011075,
+  "modifiedAt": 1660777733380,
+  "settings": {
+    "name": "AptugoForum",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "AptugoForum",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://aptugoforum_anonymous.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/anonymous"
+    },
+    "stagging": {
+      "apiURL": "https://AptugoForum_lite.aptugo.app",
+      "type": "Local",
+      "folder": "AptugoForum_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://aptugoforum_anonymous.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/anonymous"
+    },
+    "production": {
+      "apiURL": "https://aptugoforum_lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "AptugoForum",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://aptugoforum_lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/aptugoforum"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "type": "stylesheet",
+    "id": "gnK67GKe",
+    "name": "forum.module.scss",
+    "fileContents": "// Asset created by Aptugo\r\nnav{\r\n    background-color: red;\r\n}",
+    "errored": true
+  }
+]

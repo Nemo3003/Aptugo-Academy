@@ -1,0 +1,38 @@
+{
+  "unique_id": "ZRribtwE",
+  "path": "sidebar.tpl",
+  "completePath": "elements\\Material-UI\\sidebar.tpl",
+  "type": "element",
+  "icon": "ico-sidebar",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "colorSchema",
+      "display": "Color Schema",
+      "type": "dropdown",
+      "options": "Greens;Red;Blue;Black;Cyan"
+    },
+    {
+      "name": "open",
+      "display": "Open Variable",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "handleOpen",
+      "display": "Open/Close handler",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "sidebar",
+  "prevent_delete": false,
+  "cascades": true,
+  "value": "sidebar",
+  "collapseStatus": "collapse",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  },
+  "parent": "sWpgOm2H"
+}

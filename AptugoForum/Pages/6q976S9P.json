@@ -1,0 +1,28 @@
+{
+  "unique_id": "6q976S9P",
+  "path": "Link.tpl",
+  "completePath": "elements\\Material-UI\\Link.tpl",
+  "type": "element",
+  "icon": "ico-link",
+  "helpText": "Simple Link that uses React Router",
+  "options": [
+    {
+      "name": "innerText",
+      "display": "Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "destination",
+      "display": "Destination",
+      "type": "text",
+      "options": ""
+    }
+  ],
+  "name": "Aptugo Logo",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "vlCVnNxO",
+  "value": "Link",
+  "collapseStatus": "expand"
+}

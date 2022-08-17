@@ -1,0 +1,13 @@
+{
+  "unique_id": "9gQE3rJv",
+  "path": "ph.tpl",
+  "completePath": "elements/Aptugo Internal Use/ph.tpl",
+  "prevent_delete": true,
+  "icon": "ico-field",
+  "name": "APTUGO",
+  "type": "element",
+  "value": "ph",
+  "cascades": false,
+  "collapseStatus": "collapse",
+  "parent": "2X4xuI2D"
+}

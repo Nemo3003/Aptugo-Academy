@@ -1,0 +1,42 @@
+{
+  "path": "TopMenuItem.tpl",
+  "completePath": "elements/Material-UI/TopMenuItem.tpl",
+  "unique_id": "0gREFWtC",
+  "icon": "ico-top-menu-item",
+  "options": [
+    {
+      "name": "text",
+      "display": "Display Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "link",
+      "display": "Navigate to",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onClick",
+      "display": "On Click",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles"
+    }
+  ],
+  "name": "CSS",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "2HlRZmEa",
+  "value": "TopMenuItem",
+  "collapseStatus": "expand",
+  "values": {
+    "text": "CSS",
+    "link": "/css"
+  }
+}

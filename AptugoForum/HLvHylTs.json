@@ -1,0 +1,51 @@
+{
+  "path": "simpleLink.tpl",
+  "completePath": "elements\\Material-UI\\simpleLink.tpl",
+  "type": "element",
+  "unique_id": "HLvHylTs",
+  "icon": "ico-link",
+  "options": [
+    {
+      "name": "destination",
+      "display": "Destination",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "tagToUse",
+      "display": "Use Tag",
+      "type": "dropdown",
+      "options": "NavLink;A"
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "style",
+      "display": "Extra Styles",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "target",
+      "display": "Link Target",
+      "type": "dropdown",
+      "options": "_self;_blank;_parent;_top"
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "APTUGO logo",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "vlCVnNxO",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/",
+    "tagToUse": "NavLink",
+    "target": "_self"
+  },
+  "collapseStatus": "expand"
+}

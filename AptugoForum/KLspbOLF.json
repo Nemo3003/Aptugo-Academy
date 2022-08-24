@@ -1,0 +1,32 @@
+{
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "unique_id": "KLspbOLF",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "text",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "E4beiZTr",
+  "value": "text",
+  "values": {
+    "Content": "Conditional Redirects\nThis is something you will likely need to make use of when building web applications. Conditional redirects is simply routing based on certain criteria. A common scenario might be when you're building an e-commerce platform, and you don't want users to have access to certain components/modals/forms, such as the checkout modal/component, until they've added some products to the cart. If they try to force their way into the page, they should be redirected to the products page so they can first select items.\n\nThis is known as conditional redirects. To do this, we would use the useState() hook to empty the cart array and then apply some criteria to our route."
+  },
+  "collapseStatus": "expand"
+}

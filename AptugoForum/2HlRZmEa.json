@@ -1,0 +1,26 @@
+{
+  "path": "TopMenu.tpl",
+  "completePath": "elements\\Material-UI\\TopMenu.tpl",
+  "type": "element",
+  "unique_id": "2HlRZmEa",
+  "icon": "browser-51.svg",
+  "helpText": "Sets a Top Navigation Menu for a Webpage",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "TopMenu",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "vlCVnNxO",
+  "value": "TopMenu",
+  "collapseStatus": "expand",
+  "values": {
+    "className": ""
+  }
+}

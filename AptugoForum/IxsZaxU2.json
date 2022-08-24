@@ -1,0 +1,32 @@
+{
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "unique_id": "IxsZaxU2",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Text 1",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "E4beiZTr",
+  "value": "text",
+  "values": {
+    "Content": "Introduction\nIf you're a developer working on any modern web application, you're probably aware of how important it is to properly set up routing. When you browse through many React Router tutorials, you may notice that they seldom mention redirects and instead focus on how to use the Link component. To manage routing in React, we can utilize the react-router-dom package.\n\nIn this post, we will look at the many methods and scenarios in which you can utilize redirects in React. We'll also look at some previous strategies and how they functioned with the new replacements for them in React Router v6, which is the most recent version as of the time of this writing.\n\nPrerequisite\nIn this article, we will use the react-router-dom package, which we must install in our project. This is accomplished by running one of the following commands in our terminal:"
+  },
+  "collapseStatus": "expand"
+}

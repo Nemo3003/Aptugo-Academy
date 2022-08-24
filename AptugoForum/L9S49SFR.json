@@ -1,0 +1,16 @@
+{
+  "unique_id": "L9S49SFR",
+  "name": "Language",
+  "parent": "VbP5seKM",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "lang",
+    "defaultValue": "'en'"
+  },
+  "prevent_delete": false
+}

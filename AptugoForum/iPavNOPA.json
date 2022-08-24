@@ -1,0 +1,42 @@
+{
+  "path": "TopMenuItem.tpl",
+  "completePath": "elements/Material-UI/TopMenuItem.tpl",
+  "unique_id": "iPavNOPA",
+  "icon": "ico-top-menu-item",
+  "options": [
+    {
+      "name": "text",
+      "display": "Display Text",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "link",
+      "display": "Navigate to",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "onClick",
+      "display": "On Click",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "className",
+      "display": "ClassName",
+      "type": "styles"
+    }
+  ],
+  "name": "HTML",
+  "prevent_delete": false,
+  "cascades": false,
+  "type": "element",
+  "parent": "nTDbgmAT",
+  "value": "TopMenuItem",
+  "values": {
+    "text": "HTML",
+    "link": "/html"
+  },
+  "collapseStatus": "expand"
+}

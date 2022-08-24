@@ -1,0 +1,9 @@
+[
+  {
+    "type": "stylesheet",
+    "id": "gnK67GKe",
+    "name": "forum.module.scss",
+    "fileContents": "// Asset created by Aptugo\r\n\r\n:global(#app){\r\n.nav{\r\n    background: linear-gradient(180deg, #0a0a0a 0%, #cec0d1 100%);\r\n}\r\n.divpadre{& .divpadrecontainer{\r\n& .divpadrecontainerdiv{\r\n& .divpadrecontainerdivgrid{\r\n& .divpadrecontainerdivgriddiv{\r\n& .texto1{\r\n    color: #a387aa;\r\n}\r\n}\r\n}\r\n}\r\n}}\r\n\r\n\r\n\r\n\r\n\r\n}",
+    "errored": true
+  }
+]

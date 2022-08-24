@@ -1,8 +1,8 @@
 {
-  "unique_id": "7d8qwJ2B",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
+  "unique_id": "7d8qwJ2B",
   "icon": "ico-button",
   "options": [
     {
@@ -71,6 +71,7 @@
   "value": "button",
   "collapseStatus": "expand",
   "values": {
-    "ButtonText": "Aptugo"
+    "ButtonText": "Aptugo",
+    "Variant": "contained"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "unique_id": "964rPAbB",
   "path": "div.tpl",
   "completePath": "elements/Material-UI/div.tpl",
   "type": "element",
+  "unique_id": "964rPAbB",
   "icon": "ico-div",
   "sourceType": "javascript",
   "options": [
@@ -49,5 +49,8 @@
   "cascades": false,
   "parent": "oQ1aUgqb",
   "value": "div",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "values": {
+    "class": "theme.divpadrecontainerdivgriddiv"
+  }
 }

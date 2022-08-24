@@ -1,8 +1,8 @@
 {
-  "unique_id": "Zwo8MvvS",
   "path": "button.tpl",
   "completePath": "elements\\Material-UI\\button.tpl",
   "type": "element",
+  "unique_id": "Zwo8MvvS",
   "icon": "ico-button",
   "options": [
     {
@@ -71,6 +71,7 @@
   "value": "button",
   "collapseStatus": "expand",
   "values": {
-    "ButtonText": "Login"
+    "ButtonText": "Login",
+    "Variant": "outlined"
   }
 }

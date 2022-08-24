@@ -1,10 +1,10 @@
 {
   "unique_id": "doMXOrqv",
-  "name": "FAQ",
+  "name": "faq",
   "path": "/faq",
   "filename": "faq.tsx",
   "priority": 5,
   "type": "page",
   "parent": "ZN7eMvQm",
-  "collapseStatus": "collapse"
+  "collapseStatus": "expand"
 }

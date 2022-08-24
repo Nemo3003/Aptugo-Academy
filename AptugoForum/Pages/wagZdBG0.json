@@ -1,8 +1,8 @@
 {
-  "unique_id": "wagZdBG0",
   "path": "Container.tpl",
   "completePath": "elements\\Material-UI\\Container.tpl",
   "type": "element",
+  "unique_id": "wagZdBG0",
   "icon": "ico-field",
   "helpText": "The container centers your content horizontally. It's the most basic layout element.",
   "options": [
@@ -37,5 +37,9 @@
   "cascades": false,
   "parent": "TqnyheI0",
   "value": "Container",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "values": {
+    "maxWidth": "lg",
+    "className": "theme.divpadrecontainer"
+  }
 }

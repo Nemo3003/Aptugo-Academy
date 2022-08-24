@@ -1,8 +1,8 @@
 {
-  "unique_id": "gfn6icvT",
   "path": "text.tpl",
   "completePath": "elements\\Basic\\text.tpl",
   "type": "element",
+  "unique_id": "gfn6icvT",
   "icon": "ico-text",
   "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
   "sourceType": "javascript",
@@ -25,5 +25,8 @@
   "cascades": false,
   "parent": "ueg6ttoW",
   "value": "text",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "values": {
+    "Content": "hOLA3"
+  }
 }

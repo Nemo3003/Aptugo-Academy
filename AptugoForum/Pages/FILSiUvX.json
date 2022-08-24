@@ -28,10 +28,10 @@
   "cascades": true,
   "value": "themeSelection",
   "values": {
-    "theme": "website",
+    "theme": "minimum",
     "useAsset": "gnK67GKe"
   },
   "prevent_delete": false,
-  "parent": "9gQE3rJv",
+  "parent": "eU8FhfmR",
   "collapseStatus": "expand"
 }

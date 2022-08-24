@@ -1,7 +1,7 @@
 {
-  "unique_id": "ueg6ttoW",
   "path": "grid.tpl",
   "completePath": "elements/Material-UI/grid.tpl",
+  "unique_id": "ueg6ttoW",
   "options": [
     {
       "name": "className",
@@ -121,5 +121,12 @@
   "type": "element",
   "parent": "XBZQxT1T",
   "value": "grid",
-  "collapseStatus": "expand"
+  "collapseStatus": "expand",
+  "values": {
+    "container": true,
+    "justify": "center",
+    "align": "center",
+    "direction": "column",
+    "wrap": "wrap"
+  }
 }

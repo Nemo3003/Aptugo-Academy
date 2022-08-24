@@ -1,4 +1,23 @@
 // Asset created by Aptugo
-nav{
-    background-color: red;
+
+:global(#app){
+.nav{
+    background: linear-gradient(180deg, #0a0a0a 0%, #cec0d1 100%);
+}
+.divpadre{& .divpadrecontainer{
+& .divpadrecontainerdiv{
+& .divpadrecontainerdivgrid{
+& .divpadrecontainerdivgriddiv{
+& .texto1{
+    color: #a387aa;
+}
+}
+}
+}
+}}
+
+
+
+
+
 }

@@ -1,8 +1,8 @@
 {
-  "unique_id": "2HlRZmEa",
   "path": "TopMenu.tpl",
   "completePath": "elements\\Material-UI\\TopMenu.tpl",
   "type": "element",
+  "unique_id": "2HlRZmEa",
   "icon": "browser-51.svg",
   "helpText": "Sets a Top Navigation Menu for a Webpage",
   "sourceType": "javascript",
@@ -21,6 +21,6 @@
   "value": "TopMenu",
   "collapseStatus": "expand",
   "values": {
-    "className": "navig"
+    "className": ""
   }
 }

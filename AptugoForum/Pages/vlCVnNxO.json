@@ -1,8 +1,8 @@
 {
-  "unique_id": "vlCVnNxO",
   "path": "navbar.tpl",
   "completePath": "elements\\Material-UI\\navbar.tpl",
   "type": "element",
+  "unique_id": "vlCVnNxO",
   "icon": "ico-nav-bar",
   "helpText": "Navigation bar component",
   "options": [
@@ -46,8 +46,8 @@
   "collapseStatus": "expand",
   "values": {
     "Title": "Aptugo Forum",
-    "Color": "primary",
+    "Color": "transparent",
     "Position": "sticky",
-    "ClassName": "navigation"
+    "ClassName": "theme.nav"
   }
 }

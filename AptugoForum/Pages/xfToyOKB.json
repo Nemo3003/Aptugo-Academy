@@ -1,10 +1,10 @@
 {
   "unique_id": "xfToyOKB",
-  "name": "HTML/CSS",
-  "path": "/htmlcss",
-  "filename": "tutorial.tsx",
+  "name": "html",
+  "path": "/html",
+  "filename": "html.tsx",
   "priority": 5,
   "type": "page",
   "parent": "ZN7eMvQm",
-  "collapseStatus": "collapse"
+  "collapseStatus": "expand"
 }

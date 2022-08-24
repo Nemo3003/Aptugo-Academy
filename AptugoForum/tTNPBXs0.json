@@ -1,0 +1,16 @@
+{
+  "unique_id": "tTNPBXs0",
+  "name": "text",
+  "parent": "qtBO6CRC",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "SURVEY MANAGERS",
+    "ClassName": "theme.chips"
+  },
+  "prevent_delete": false
+}

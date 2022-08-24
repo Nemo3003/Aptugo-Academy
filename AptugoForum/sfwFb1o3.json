@@ -1,0 +1,17 @@
+{
+  "unique_id": "sfwFb1o3",
+  "name": "typography",
+  "originalName": "typography",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "parent": "T13D9UWX",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h3"
+  },
+  "prevent_delete": false
+}

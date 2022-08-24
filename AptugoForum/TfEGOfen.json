@@ -1,0 +1,53 @@
+{
+  "path": "navbar.tpl",
+  "completePath": "elements\\Material-UI\\navbar.tpl",
+  "type": "element",
+  "unique_id": "TfEGOfen",
+  "icon": "ico-nav-bar",
+  "helpText": "Navigation bar component",
+  "options": [
+    {
+      "name": "Title",
+      "display": "Title",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "Color",
+      "display": "Color",
+      "type": "dropdown",
+      "options": "default;inherit;primary;secondary;transparent"
+    },
+    {
+      "name": "Position",
+      "display": "Position",
+      "type": "dropdown",
+      "options": "absolute;fixed;relative;static;sticky"
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    },
+    {
+      "name": "Elevation",
+      "display": "Elevation",
+      "type": "dropdown",
+      "options": "0;1;2;3;4;5"
+    }
+  ],
+  "sourceType": "javascript",
+  "name": "APTUGO ",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "p9hwMupJ",
+  "value": "navbar",
+  "values": {
+    "Title": "Aptugo",
+    "Color": "transparent",
+    "Position": "sticky",
+    "ClassName": "theme.nav"
+  },
+  "collapseStatus": "expand"
+}

@@ -1,0 +1,12 @@
+{
+  "unique_id": "VbP5seKM",
+  "name": "Language",
+  "parent": "8wwwcTZJ",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "collapseStatus": "collapse",
+  "cascades": true,
+  "type": "element",
+  "value": "dummyEncloser",
+  "prevent_delete": false
+}

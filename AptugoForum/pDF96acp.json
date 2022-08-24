@@ -1,0 +1,9 @@
+{
+  "unique_id": "pDF96acp",
+  "name": "Before Page Render",
+  "type": "element",
+  "value": "bpr",
+  "prevent_delete": true,
+  "cascades": false,
+  "parent": "doMXOrqv"
+}

@@ -1,0 +1,29 @@
+{
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "unique_id": "vSslkA1t",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Text Content",
+  "prevent_delete": false,
+  "cascades": false,
+  "parent": "gfn6icvT",
+  "value": "text",
+  "collapseStatus": "expand"
+}

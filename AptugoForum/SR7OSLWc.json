@@ -1,0 +1,16 @@
+{
+  "unique_id": "SR7OSLWc",
+  "name": "navbar",
+  "parent": "Jtd27o0X",
+  "path": "navbar.tpl",
+  "completePath": "elements/Material-UI/navbar.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "navbar",
+  "values": {
+    "Position": "sticky",
+    "Color": "transparent"
+  },
+  "prevent_delete": false
+}

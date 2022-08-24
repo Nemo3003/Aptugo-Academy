@@ -1,0 +1,17 @@
+{
+  "unique_id": "yvaSIneQ",
+  "name": "button",
+  "parent": "3fwMX0xr",
+  "path": "button.tpl",
+  "completePath": "elements/Material-UI/button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "Action": "",
+    "ButtonText": "Feedback",
+    "Variant": "outlined"
+  },
+  "prevent_delete": false
+}

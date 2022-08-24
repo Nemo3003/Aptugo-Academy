@@ -1,0 +1,32 @@
+{
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "type": "element",
+  "unique_id": "r0KMrVmf",
+  "icon": "ico-text",
+  "helpText": "Insert simple text anywhere. Can hold variables, code, and anything of your choice",
+  "sourceType": "javascript",
+  "options": [
+    {
+      "name": "Content",
+      "display": "Content",
+      "type": "text",
+      "options": ""
+    },
+    {
+      "name": "ClassName",
+      "display": "ClassName",
+      "type": "styles",
+      "options": ""
+    }
+  ],
+  "name": "Text Content",
+  "value": "text",
+  "parent": "aU2M0LM4",
+  "prevent_delete": false,
+  "cascades": false,
+  "values": {
+    "Content": "This page is for you to ask questions and get answers on any aptugo-related stuff!"
+  },
+  "collapseStatus": "expand"
+}

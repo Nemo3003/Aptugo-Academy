@@ -1,0 +1,11 @@
+{
+  "unique_id": "ZN7eMvQm",
+  "name": "Application Root",
+  "type": "page",
+  "subtype": "cascade",
+  "prevent_delete": true,
+  "path": "",
+  "parent": null,
+  "collapseStatus": "expand",
+  "warning": "ZN7eMvQm.json does not exist"
+}
